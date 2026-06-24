@@ -4,3 +4,5 @@ https://universitariadcolombia-my.sharepoint.com/:f:/g/personal/dbrayantorres_un
 https://colab.research.google.com/
 # link de la clase
 https://teams.microsoft.com/meet/274186087923112?p=tXu94Wt4A1AWElkQyY
+#link para poner repo
+https://docs.google.com/spreadsheets/d/1v6WaqPnlXtYDaFXSvgf42QIWm31PFfJ5lgOj3TfsEpw/edit?usp=sharing
